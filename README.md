@@ -1,5 +1,14 @@
 # Simple Smart Contract
 
+- [Remix IDE](https://remix.ethereum.org/)
+- [Web3 FW](https://github.com/ethereum/web3.js/)
+- [Rinkeby Test Network](https://www.rinkeby.io/)
+- [Mocha JS](https://mochajs.org/)
+- [Ganache-CLI](https://github.com/trufflesuite/ganache-cli)
+- [Infura](https://www.infura.io)
+- [HDWallet Provider](https://github.com/trufflesuite/truffle-hdwallet-provider)
+- [Metamask](https://www.metamask.io)
+
 ## :arrow_up: How to Setup
 
 **Step 1:** git clone this repo:
