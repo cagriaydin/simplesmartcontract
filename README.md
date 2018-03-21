@@ -1,5 +1,7 @@
 # Simple Smart Contract
 
+<img src="https://user-images.githubusercontent.com/19540661/37708713-bee508ec-2d18-11e8-9460-6c0d27be4528.PNG" width="400">
+
 - [Remix IDE](https://remix.ethereum.org/)
 - [Web3 FW](https://github.com/ethereum/web3.js/)
 - [Rinkeby Test Network](https://www.rinkeby.io/)
